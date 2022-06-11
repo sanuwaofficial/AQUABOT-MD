@@ -81,22 +81,22 @@
       },
        "SONG_DOWN": {
             "description": "",
-            "value": "" ,
+            "value": "*📥Downloading your song...*" ,
             "required": true
       }, 
         "SONG_UP": {
             "description": "",
-            "value": "" ,
+            "value": "*📤Uploading your song...*" ,
             "required": true
       },
           "VIDEO_DOWN": {
             "description": "",
-            "value": "" ,
+            "value": "*📥Downloading your video...*" ,
             "required": true
       },
           "VIDEO_UP": {
             "description": "",
-            "value": "" ,
+            "value": "*📤Uploading your video...*" ,
             "required": true
       },
           "FILE_DOWN": {
