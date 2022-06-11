@@ -9,7 +9,7 @@
     "stack": "container",
      "env": {
             "AQUA_SESSION": {
-            "description": ".",
+            "description": "",
             "required": true
              },
        
@@ -20,7 +20,7 @@
              },
            
            "URL_1NAME": {
-            "description": ".",
+            "description": "",
             "value": "🎊INSTAGRAM🎊" ,
             "required": true
       },
@@ -30,52 +30,52 @@
             "required": true
       },
      "URL_2NAME": {
-            "description": ".",
+            "description": "",
             "value": "💻GITHUB💻" ,
             "required": true
       },
        "URL_2LINK": {
-            "description": ".",
+            "description": "",
             "value": "https://github.com/sanuwaofficial" ,
             "required": true
       },
        "FOOTER": {
-            "description": ".",
+            "description": "",
             "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰𝙱𝙾𝚃 ²⁰²²" ,
             "required": true
       },
      "ANTI_LINK": {
-            "description": ".",
+            "description": "",
             "value": "false" ,
             "required": true
       },
        "CAPTION": {
-            "description": ".",
+            "description": "",
             "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰 ²⁰²²" ,
             "required": true
       },
        "INBOX_BLOCK": {
-            "description": ".",
+            "description": "",
             "value": "false" ,
             "required": true
       },
        "INBOX_BLOCK_MSG": {
-            "description": ".",
+            "description": "",
             "value": "default" ,
             "required": true
       },
       "ALIVE_MESSAGE": {
-            "description": ".",
+            "description": "",
             "value": "default", 
             "required": true
       },
       "ALIVE_LOGO": {
-            "description": ".",
+            "description": "",
             "value": "https://i.ibb.co/V9jYrQC/aqua-md.jpg" ,
             "required": true
       },
       "DEPLOYER": {
-            "description": ".",
+            "description": "",
             "value": "AQUA USER" ,
             "required": true
       },
@@ -101,14 +101,35 @@
       },
           "FILE_DOWN": {
             "description": "",
-            "value": "" ,
+            "value": "*📥Downloading your file...*" ,
             "required": true
       },
           "FILE_UP": {
             "description": "",
+            "value": "*📤Uploading your file...*" ,
+            "required": true
+      },
+          "STIC_WM": {
+            "description": "",
+            "value": "⛲αqυα ⃨𝚋oƚ ࿐" ,
+            "required": true
+      },
+          "WORK_TYPE": {
+            "description": "",
+            "value": "public" ,
+            "required": true
+      },
+         "SUDO": {
+            "description": "",
             "value": "" ,
+            "required": false
+      },
+         "LANGUAGE": {
+            "description": "",
+            "value": "EN" ,
             "required": true
       }
+        
      },
     "addons": [{
       "plan": "heroku-postgresql"
