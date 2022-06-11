@@ -143,6 +143,26 @@
             "description": "",
             "value": "" ,
             "required": true
+      },
+         "BAN_MESSAGE": {
+            "description": "",
+            "value": "default" ,
+            "required": true
+      },
+         "ADD_MESSAGE": {
+            "description": "",
+            "value": "default" ,
+            "required": true
+      },
+        "PROMOTE_MESSAGE": {
+            "description": "",
+            "value": "default" ,
+            "required": true
+      },
+         "DEMOTE_MESSAGE": {
+            "description": "",
+            "value": "default" ,
+            "required": true
       }
         
      },
