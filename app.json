@@ -128,6 +128,21 @@
             "description": "",
             "value": "EN" ,
             "required": true
+      },
+         "HEROKU": {
+            "description": "",
+            "value": "true" ,
+            "required": true
+      },
+         "HEROKU_API_KEY": {
+            "description": "",
+            "value": "" ,
+            "required": true
+      },
+         "HEROKU_APP_NAME": {
+            "description": "",
+            "value": "" ,
+            "required": true
       }
         
      },
