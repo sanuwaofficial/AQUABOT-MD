@@ -9,74 +9,74 @@
     "stack": "container",
      "env": {
             "AQUA_SESSION": {
-            "description": "",
+            "description": ".",
             "required": true
              },
        
             "AUTO_REACT": {
             "description": "",
-            "value": "false" 
+            "value": "false" ,
             "required": true
              },
            
            "URL_1NAME": {
-            "description": "",
-            "value": "🎊INSTAGRAM🎊" 
+            "description": ".",
+            "value": "🎊INSTAGRAM🎊" ,
             "required": true
       },
            "URL_1LINK": {
             "description": "",
-            "value": "https://www.instagram.com/__.sanuwa.__/" 
+            "value": "https://www.instagram.com/__.sanuwa.__/" ,
             "required": true
       },
      "URL_2NAME": {
-            "description": "",
-            "value": "💻GITHUB💻" 
+            "description": ".",
+            "value": "💻GITHUB💻" ,
             "required": true
       },
        "URL_2LINK": {
-            "description": "",
-            "value": "https://github.com/sanuwaofficial" 
+            "description": ".",
+            "value": "https://github.com/sanuwaofficial" ,
             "required": true
       },
        "FOOTER": {
-            "description": "",
-            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰𝙱𝙾𝚃 ²⁰²²" 
+            "description": ".",
+            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰𝙱𝙾𝚃 ²⁰²²" ,
             "required": true
       },
      "ANTI_LINK": {
-            "description": "",
-            "value": "false" 
+            "description": ".",
+            "value": "false" ,
             "required": true
       },
        "CAPTION": {
-            "description": "",
-            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰 ²⁰²²" 
+            "description": ".",
+            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰 ²⁰²²" ,
             "required": true
       },
        "INBOX_BLOCK": {
-            "description": "",
-            "value": "false" 
+            "description": ".",
+            "value": "false" ,
             "required": true
       },
        "INBOX_BLOCK_MSG": {
-            "description": "",
-            "value": "default" 
+            "description": ".",
+            "value": "default" ,
             "required": true
       },
       "ALIVE_MESSAGE": {
-            "description": "",
-            "value": "default" 
+            "description": ".",
+            "value": "default", 
             "required": true
       },
       "ALIVE_LOGO": {
-            "description": "",
-            "value": "https://i.ibb.co/V9jYrQC/aqua-md.jpg" 
+            "description": ".",
+            "value": "https://i.ibb.co/V9jYrQC/aqua-md.jpg" ,
             "required": true
       },
       "DEPLOYER": {
-            "description": "",
-            "value": "AQUA USER" 
+            "description": ".",
+            "value": "AQUA USER" ,
             "required": true
       }
      },
