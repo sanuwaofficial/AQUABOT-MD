@@ -78,6 +78,36 @@
             "description": ".",
             "value": "AQUA USER" ,
             "required": true
+      },
+       "SONG_DOWN": {
+            "description": "",
+            "value": "" ,
+            "required": true
+      }, 
+        "SONG_UP": {
+            "description": "",
+            "value": "" ,
+            "required": true
+      },
+          "VIDEO_DOWN": {
+            "description": "",
+            "value": "" ,
+            "required": true
+      },
+          "VIDEO_UP": {
+            "description": "",
+            "value": "" ,
+            "required": true
+      },
+          "FILE_DOWN": {
+            "description": "",
+            "value": "" ,
+            "required": true
+      },
+          "FILE_UP": {
+            "description": "",
+            "value": "" ,
+            "required": true
       }
      },
     "addons": [{
