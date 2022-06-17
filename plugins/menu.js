@@ -25,7 +25,7 @@ const defaultMenu = {
   body: '┠ %cmd %islimit %isPremium',
   footer: '┗━━━━\n',
   after: `
-*PATHUM 🤍🥀@^%version*
+*PATHUM🤍🥀@^%version*
 `,
 }
 let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
