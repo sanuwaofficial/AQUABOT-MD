@@ -96,12 +96,12 @@
       },
           "VIDEO_UP": {
             "description": "",
-            "value": "*📤Uploading your video...*" ,
+            "value": "*📤🌹Uploading your video...*" ,
             "required": true
       },
           "FILE_DOWN": {
             "description": "",
-            "value": "*📥Downloading your file...*" ,
+            "value": "*🌟Downloading your file...*" ,
             "required": true
       },
           "FILE_UP": {
