@@ -12,6 +12,16 @@
             "description": "",
             "required": true
              },
+            "OWN_NAME": {
+            "description": "",
+            "value": "Sanuwa Official" ,
+            "required": true
+             },
+             "OWN_NUMBER": {
+            "description": "",
+            "value": "94701629707" ,
+            "required": true
+             },
        
             "AUTO_REACT": {
             "description": "",
