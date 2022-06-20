@@ -21,7 +21,7 @@
    
     "@adiwajshing/baileys": "^4.0.1",
     "@adiwajshing/keyed-db": "^0.2.4",  
-    "axios": "^0.24.0",
+    "axios": "^0.27.2",
     "heroku-client": "^3.1.0", 
     "stream" : "^0.0.2" ,
     "simple-git": "^2.37.0",  
