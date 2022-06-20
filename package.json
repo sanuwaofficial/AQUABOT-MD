@@ -53,7 +53,8 @@
      "megajs" : "^1.0.4",  
      "moment-timezone": "^0.5.33",
     "node-fetch": "^2.6.1" ,
-     "translatte " : "^3.0.1"
+     "translatte " : "^3.0.1",
+     "@hapi/boom" : "^10.0.0"
 		
 
   }
