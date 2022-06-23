@@ -50,7 +50,18 @@
                               "N_LINK" : "*🧜‍♀️💬google playstore app link එකක් ඇතුළත් කරන්න.*" ,
                               "ERROR"  : "*🧜‍♀️💬APK ගොනුව හමු නොවීය.*"
     
-                           }
+                           },
+        "filters": {
+           
+            "NO_FILTER": "*❌ There are no filters in this chat!*",
+            "FILTERS": "*🔎 There is your filters in this chat:*",
+            "NEED_REPLY": "*❌ Please type in reply!*\n*Example:*",
+            "FILTERED": "*✅ Successfully set* ```{}``` *to filter!*",
+            "STOP_DESC": "ඔබ කලින් එකතු කළ පෙරණය නවත්වයි.",
+            "NEED_FILTER": "*❌ Please type a filter!*\n*Example:*",
+            "ALREADY_NO_FILTER": "*❌ There is already no filter like this!*",
+            "DELETED": "*✅ The filter was successfully deleted!*"
+        }
              
 
 
