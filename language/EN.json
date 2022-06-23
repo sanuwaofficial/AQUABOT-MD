@@ -51,7 +51,18 @@
                               "N_LINK" : "*🧜‍♀️💬 Enter a google playstore app link .*" ,
                               "ERROR"  : "*🧜‍♀️💬APK Not Found!.*"
     
-                           }
+                           },
+         "filters": {
+            "FILTER_DESC": "It adds a filter. If someone writes your filter, it send the answer. If you just write .filter, it show's your filter list.",
+            "NO_FILTER": "*❌ There are no filters in this chat!*",
+            "FILTERS": "*🔎 There is your filters in this chat:*",
+            "NEED_REPLY": "*❌ Please type in reply!*\n*Example:*",
+            "FILTERED": "*✅ Successfully set* ```{}``` *to filter!*",
+            "STOP_DESC": "Stops the filter you added previously.",
+            "NEED_FILTER": "*❌ Please type a filter!*\n*Example:*",
+            "ALREADY_NO_FILTER": "*❌ There is already no filter like this!*",
+            "DELETED": "*✅ The filter was successfully deleted!*"
+        }
 
 
 
