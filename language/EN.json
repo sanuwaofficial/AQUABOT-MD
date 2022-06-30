@@ -62,6 +62,18 @@
             "NEED_FILTER": "*❌ Please type a filter!*\n*Example:*",
             "ALREADY_NO_FILTER": "*❌ There is already no filter like this!*",
             "DELETED": "*✅ The filter was successfully deleted!*"
+        },
+        "greetings": {
+            "NOT_SET_WELCOME": "*🧜‍♀️💬You don't set the welcome message yet.!*\n**To set:** ```.welcome hi && hi#how are you?```",
+            "WELCOME_ALREADY_SETTED": "*✅ Welcome message already set!*\n*Message:* ```",
+            "NEED_WELCOME_TEXT": "*🧜‍♀️💬You must write a message to set up the welcome message.*\n*Example:* ```.welcome hi && hi#how are you?```",
+            "WELCOME_DELETED": "*✅ Welcome message has been deleted successfully!*",
+            "WELCOME_SETTED": "*✅ Welcome message has been set successfully!*",
+            "NOT_SET_GOODBYE": "*🧜‍♀️💬You didn't set a goodbye message!*\n*To set:* ```.goodbye bye && bye#see ya```",
+            "GOODBYE_ALREADY_SETTED": "*✅ Goodbye message has been set!*\n*Message:* ```",
+            "NEED_GOODBYE_TEXT": "*🧜‍♀️💬You must write a message to set up the goodbye message.*\n*Example:* ```.goodbye bye && bye#see ya```",
+            "GOODBYE_DELETED": "*✅ Goodbye message has been deleted successfully!*",
+            "GOODBYE_SETTED": "*✅ Goodbye message has been setted successfully!*"
         }
 
 
