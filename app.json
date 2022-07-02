@@ -12,6 +12,10 @@
             "description": "",
             "required": true
              },
+             "REMOVE_BG_API_KEY": {
+            "description": "",
+            "required": true
+             },
             "OWN_NAME": {
             "description": "",
             "value": "Sanuwa Official" ,
