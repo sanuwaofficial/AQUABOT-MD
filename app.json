@@ -80,12 +80,12 @@
       },
       "ALIVE_MESSAGE": {
             "description": "",
-            "value": "හායි    i am pramesh lion bot☸️☸️ ", 
+            "value": "Hi friends        ❤️ මම pramesh lion bot ඔයාලට ඕන සින්දුවක් විඩියෝ එකක් ඇප් එකක් මගෙන් ගන්න පුලුවන්🌹⃝☺️᭄ꦿ❤️❤️❤️❤️☣️⚪⚫🟤🟣🔵🟢🟠🔴✈️✈️✈️✈️✈️✈️✈️✈️✈️✈️✈️✈️✈️✈️✈️🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰 ", 
             "required": true
       },
       "ALIVE_LOGO": {
             "description": "",
-            "value": "https://telegra.ph/file/85fe740b2385a55178500.jpg" ,
+            "value": "https://i.ibb.co/K54KLgF/Picsart-22-07-03-15-45-00-698.jpg" ,
             "required": true
       },
       "DEPLOYER": {
