@@ -1,4 +1,4 @@
-# AQUABOT-MD
+# pramesh lion bot-MD
 This project is still being tested
 <p align="center"> <a href="github.com/sanuwaofficial"><img align="center" src="https://i.ibb.co/K54KLgF/Picsart-22-07-03-15-45-00-698.jpg"/></a>
  <p align="center">
