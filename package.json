@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sanuwaofficial/AQUABOT-MD.git"
+    "url": "git+https://github.com/prameshnilakshan7/AQUABOT-MD.git"
   },
   "author": "pramesh nilakshan ",
   "developer": "pramesh ",
   "license": "GPL-3.0-or-later",
-  "bugs": {
-    "url": "https://github.com/sanuwaofficial/AQUABOT-MD/issues"
+  "bugs": { prameshnilakshan7
+    "url": "https://github.com/prameshnilakshan7/AQUABOT-MD/issues"
   },
-  "homepage": "https://github.com/sanuwaofficial/AQUABOT-MD",
+  "homepage": "https://github.com/prameshnilakshan7/AQUABOT-MD",
   "dependencies": {
    
     "@adiwajshing/baileys": "^4.1.0",
