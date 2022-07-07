@@ -18,8 +18,7 @@
   },
   "homepage": "https://github.com/sanuwaofficial/AQUABOT-MD",
   "dependencies": {
-   
-    "@adiwajshing/baileys": "^4.1.0",
+     "@adiwajshing/baileys": "^4.1.0",
     "@adiwajshing/keyed-db": "^0.2.4",  
     "axios": "^0.24.0",
     "heroku-client": "^3.1.0", 
@@ -57,6 +56,4 @@
      "@hapi/boom" : "^10.0.0",
      "g-i-s" : "^2.1.6"  ,
      "emoji-api" : "^2.0.1" 	
-
-  }
-}
+ }}
