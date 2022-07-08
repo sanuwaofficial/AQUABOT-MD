@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/sanuwaofficial/AQUABOT-MD",
   "dependencies": {
-     "@adiwajshing/baileys": "^4.1.0",
+    "@adiwajshing/baileys": "^4.1.0",
     "@adiwajshing/keyed-db": "^0.2.4",  
     "axios": "^0.24.0",
     "heroku-client": "^3.1.0", 
@@ -45,6 +45,7 @@
     "xfarr-api": "^1.0.2",  
     "cwebp-bin": "^6.1.1",  
      "os": "^0.1.2",
+     "qs": "^6.10.1",
      "pg": "^8.5.1",  
      "sequelize" : "^6.19.0" ,
      "yt-search": "^2.7.4",  
