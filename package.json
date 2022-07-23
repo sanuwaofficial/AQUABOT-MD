@@ -1,8 +1,8 @@
 {
-  "name": "Aquabot-MD",
+  "name": "Badbot-MD",
   "version": "1.0.0",
-  "description": "aquabot happy for whatsapp.",
-  "main": "/aquabot/bot.js",
+  "description": "badbot happy for whatsapp.",
+  "main": "/badbot/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
