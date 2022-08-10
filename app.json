@@ -12,6 +12,11 @@
             "description": "",
             "required": true
              },
+            "NO_ONLINE": {
+            "description": "",
+            "required": true,
+             value": "false"    
+             },
             "ANTI_BOT": {
             "description": "",
             "value": "false" ,    
