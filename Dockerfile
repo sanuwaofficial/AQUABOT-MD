@@ -1,10 +1,8 @@
-FROM aquabotwa/sanuwa-official:md-beta
- 
+
+FROM quay.io/souravkl11/raganork:multidevice
+
 RUN git clone https://github.com/sanuwaofficial/AQUABOT-MD /root/aquabot
-WORKDIR /root/aquabot/
-ENV NODE_VERSION=15.14.0
-ENV TZ=Europe/Istanbul
-
+WORKDIR /root/aquabot
+ENV TZ=Asia/Kolkata
 RUN yarn install --ignore-engines
-
 CMD ["node", "bot.js"]
