@@ -15,7 +15,7 @@
             "NO_ONLINE": {
             "description": "",
             "required": true,
-             value": "false"    
+             "value": "false"    
              },
             "ANTI_BOT": {
             "description": "",
