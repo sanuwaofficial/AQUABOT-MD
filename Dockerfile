@@ -5,6 +5,6 @@ WORKDIR /root/aquabot/
 ENV NODE_VERSION=15.14.0
 ENV TZ=Europe/Istanbul
 RUN yarn add supervisor -g
-RUN yarn install --no-audit
+RUN yarn install --ignore-engines
 
 CMD ["node", "bot.js"]
