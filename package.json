@@ -52,7 +52,6 @@
      "os": "^0.1.2",
      "qs": "^6.10.1",
      "pg": "^8.5.1",  
-     "sequelize" : "^6.19.0" ,
      "yt-search": "^2.7.4",  
      "path": "^0.12.7",
      "megajs" : "^1.0.4",  
@@ -60,5 +59,14 @@
     "node-fetch": "^2.6.1" ,
      "translatte " : "^3.0.1",
      "g-i-s" : "^2.1.6"  ,
-     "emoji-api" : "^2.0.1" 	
+     "emoji-api" : "^2.0.1" 	,
+    "@adiwajshing/keyed-db":"0.2.4",
+    "acrcloud":"1.4.0",
+    "string-crypto": "2.0.2",
+    "link-preview-js":"2.1.15",
+    "node-cron": "3.0.1",
+    "async-g-i-s": "1.0.0",
+    "sequelize": "^6.13.0",
+    "sqlite3": "^5.0.0",
+    "supervisor": "^0.12.0" 
  }}
