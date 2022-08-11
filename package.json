@@ -18,8 +18,7 @@
   },
   "homepage": "https://github.com/sanuwaofficial/AQUABOT-MD",
   "dependencies": {
-   "@adiwajshing/baileys": "^4.3.0",
-    "@adiwajshing/keyed-db": "^0.2.4",  
+   "@adiwajshing/baileys": "git+https://github.com/souravkl11/Baileys.git",
     "axios": "^0.24.0",
     "heroku-client": "^3.1.0", 
     "stream" : "^0.0.2" ,
@@ -59,7 +58,6 @@
      "moment-timezone": "^0.5.33",
     "node-fetch": "^2.6.1" ,
      "translatte " : "^3.0.1",
-     "@hapi/boom" : "^10.0.0",
      "g-i-s" : "^2.1.6"  ,
      "emoji-api" : "^2.0.1" 	
  }}
