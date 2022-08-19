@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "aquabot happy for whatsapp.",
   "main": "/aquabot/bot.js",
+  "type": "commonjs",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
