@@ -1,5 +1,5 @@
 FROM node:lts-buster
-ENV NODE_VERSION=14.19.3
+
 RUN apt-get update && \
   apt-get install -y \
   ffmpeg \
@@ -7,6 +7,8 @@ RUN apt-get update && \
   webp && \
   apt-get upgrade -y && \
   rm -rf /var/lib/apt/lists/*
+  
+ENV NODE_VERSION=15.14.0
 
 COPY package.json .
 
