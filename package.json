@@ -2,7 +2,7 @@
   "name": "Aquabot-MD",
   "version": "1.0.0",
   "description": "aquabot happy for whatsapp.",
-  "main": "bot.js",
+  "main": "aquabot/bot.js",
   "type": "commonjs",
   "scripts": {
     "start": "node bot.js"
