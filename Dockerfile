@@ -1,5 +1,5 @@
 FROM node:lts-buster
-
+ENV NODE_VERSION=14.19.3
 RUN apt-get update && \
   apt-get install -y \
   ffmpeg \
