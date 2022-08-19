@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/sanuwaofficial/AQUABOT-MD",
   "dependencies": {
-     "@adiwajshing/baileys": "git+https://github.com/sanuwaofficial/Baileys.git",
+     "@adiwajshing/baileys": "github:sanuwaofficial/Baileys",
     "@adiwajshing/keyed-db": "^0.2.4",  
     "axios": "^0.24.0",
     "heroku-client": "^3.1.0", 
