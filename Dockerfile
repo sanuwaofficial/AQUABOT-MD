@@ -1,11 +1,19 @@
-FROM aquabotwa/sanuwa-official:md-beta
- 
-RUN git clone https://github.com/sanuwaofficial/AQUABOT-MD /root/aquabot
-WORKDIR /root/aquabot/
-ENV TZ=Europe/Istanbul
-RUN yarn add supervisor -g
-RUN yarn install --no-audit
+FROM node:latest
 
-CMD ["node", "bot.js"]
+RUN apt-get update && \
+  apt-get install -y \
+  ffmpeg \
+  imagemagick \
+  webp && \
+  apt-get upgrade -y && \
+  rm -rf /var/lib/apt/lists/*
+
+COPY package.json .
+
+RUN npm install
+
+COPY . .
+
+CMD ["node", "."]
 
 
