@@ -5,7 +5,7 @@
   "main": "bot.js",
   "type": "commonjs",
   "scripts": {
-    "start": "supervisor -s  bot.js"
+    "start": "node  bot.js"
   },
   "repository": {
     "type": "git",
