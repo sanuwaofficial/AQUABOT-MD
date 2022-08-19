@@ -1,4 +1,4 @@
-FROM aquabotwa/sanuwa-official:md-beta
+FROM quay.io/souravkl11/raganork:multidevice
 
 RUN git clone https://github.com/sanuwaofficial/AQUABOT-MD /root/aquabot
 WORKDIR /root/aquabot/
