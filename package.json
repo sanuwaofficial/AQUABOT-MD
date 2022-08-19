@@ -11,10 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/sanuwaofficial/AQUABOT-MD.git"
   },
-  "engines" : { 
-    
-    "node" : ">=14.19.3"
-  },
+ 
   "author": "sanuwa official",
   "developer": "sanuwa",
   "license": "GPL-3.0-or-later",
