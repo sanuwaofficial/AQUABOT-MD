@@ -1,7 +1,7 @@
 {
     "name": "Aquabot - MD",
-    "description": "AQUABOT  - Makes it easy and fun to use Whatsapp.",
-    "logo": "https://i.ibb.co/V9jYrQC/aqua-md.jpg",
+    "description": "mz bot  - Makes it easy and fun to use Whatsapp.",
+    "logo": "https://telegra.ph/file/368613138e71d1c8e4769.png",
     "keywords": ["whatsapp", "userbot", "aqua", "bot", "ai" , "MD" ],
     "repository": "https://github.com/sanuwaofficial/AQUABOT-MD",
     "website":   "https://aquabot.ga/",
@@ -33,12 +33,12 @@
              },
             "OWN_NAME": {
             "description": "",
-            "value": "Sanuwa Official" ,
+            "value": "MLaLi ZizWaR" ,
             "required": true
              },
              "OWN_NUMBER": {
             "description": "",
-            "value": "94701629707" ,
+            "value": "+212693159291" ,
             "required": true
              },
        
@@ -55,7 +55,7 @@
       },
            "URL_1LINK": {
             "description": "",
-            "value": "https://www.instagram.com/__.sanuwa.__/" ,
+            "value": "https://www.instagram.com/mz_hacker1" ,
             "required": true
       },
      "URL_2NAME": {
@@ -70,7 +70,7 @@
       },
        "FOOTER": {
             "description": "",
-            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰𝙱𝙾𝚃 ²⁰²²" ,
+            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 MZ BOT ²⁰²²" ,
             "required": true
       },
      "ANTI_LINK": {
@@ -80,7 +80,7 @@
       },
        "CAPTION": {
             "description": "",
-            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰 ²⁰²²" ,
+            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 MZ BOT ²⁰²²" ,
             "required": true
       },
        "INBOX_BLOCK": {
@@ -100,7 +100,7 @@
       },
       "ALIVE_LOGO": {
             "description": "",
-            "value": "https://telegra.ph/file/85fe740b2385a55178500.jpg" ,
+            "value": "https://telegra.ph/file/368613138e71d1c8e4769.png" ,
             "required": true
       },
       "DEPLOYER": {
@@ -140,7 +140,7 @@
       },
           "STIC_WM": {
             "description": "",
-            "value": "⛲αqυα ⃨𝚋oƚ ࿐" ,
+            "value": "MZ BOT PRO" ,
             "required": true
       },
           "WORK_TYPE": {
