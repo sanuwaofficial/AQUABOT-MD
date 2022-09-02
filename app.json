@@ -1,14 +1,14 @@
 {
-    "name": "Aquabot - MD",
-    "description": "AQUABOT  - Makes it easy and fun to use Whatsapp.",
+    "name": "sakunbot - MD",
+    "description": "Sakun  - Makes it easy and fun to use Whatsapp.",
     "logo": "https://i.ibb.co/V9jYrQC/aqua-md.jpg",
-    "keywords": ["whatsapp", "userbot", "aqua", "bot", "ai" , "MD" ],
-    "repository": "https://github.com/sanuwaofficial/AQUABOT-MD",
-    "website":   "https://aquabot.ga/",
-    "success_url": "https://aquabot.ga",
+    "keywords": ["whatsapp", "userbot", "sakun", "bot", "ai" , "MD" ],
+    "repository": "https://github.com/sakunofficial/SAKUN-MD",
+    "website":   "https://sakunbot.ga/",
+    "success_url": "https://sakunbot.ga",
     "stack": "container",
      "env": {
-            "AQUA_SESSION": {
+            "SAKUN_SESSION": {
             "description": "",
             "required": true
              },
@@ -33,12 +33,12 @@
              },
             "OWN_NAME": {
             "description": "",
-            "value": "Sanuwa Official" ,
+            "value": "Sakun Official" ,
             "required": true
              },
              "OWN_NUMBER": {
             "description": "",
-            "value": "94701629707" ,
+            "value": "94760671767" ,
             "required": true
              },
        
@@ -50,27 +50,27 @@
            
            "URL_1NAME": {
             "description": "",
-            "value": "🎊INSTAGRAM🎊" ,
+            "value": "☬Youtube☬" ,
             "required": true
       },
            "URL_1LINK": {
             "description": "",
-            "value": "https://www.instagram.com/__.sanuwa.__/" ,
+            "value": "https://youtu.be/rYLF6KNHE-c" ,
             "required": true
       },
      "URL_2NAME": {
             "description": "",
-            "value": "💻GITHUB💻" ,
+            "value": "☬Whats app gruop☬" ,
             "required": true
       },
        "URL_2LINK": {
             "description": "",
-            "value": "https://github.com/sanuwaofficial" ,
+            "value": "https://chat.whatsapp.com/DAv7cHRzJBDIlzrrDd1yCo" ,
             "required": true
       },
        "FOOTER": {
             "description": "",
-            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰𝙱𝙾𝚃 ²⁰²²" ,
+            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝚂𝙰𝙺𝚄𝙽 𝙺𝙰𝚅𝙴𝙴𝚂𝙷𝙰 ²⁰²²" ,
             "required": true
       },
      "ANTI_LINK": {
@@ -80,7 +80,7 @@
       },
        "CAPTION": {
             "description": "",
-            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰 ²⁰²²" ,
+            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝚂𝙰𝙺𝚄𝙽 𝙺𝙰𝚅𝙴𝙴𝚂𝙷𝙰 ²⁰²²" ,
             "required": true
       },
        "INBOX_BLOCK": {
@@ -105,42 +105,42 @@
       },
       "DEPLOYER": {
             "description": "",
-            "value": "AQUA USER" ,
+            "value": "SAKUN USER" ,
             "required": true
       },
        "SONG_DOWN": {
             "description": "",
-            "value": "*📥Downloading your song...*" ,
+            "value": "*📥Downloading sakun your song...*" ,
             "required": true
       }, 
         "SONG_UP": {
             "description": "",
-            "value": "*📤Uploading your song...*" ,
+            "value": "*📤Uploading sakun your song...*" ,
             "required": true
       },
           "VIDEO_DOWN": {
             "description": "",
-            "value": "*📥Downloading your video...*" ,
+            "value": "*📥Downloading sakun  your video...*" ,
             "required": true
       },
           "VIDEO_UP": {
             "description": "",
-            "value": "*📤Uploading your video...*" ,
+            "value": "*📤Uploading sakun your video...*" ,
             "required": true
       },
           "FILE_DOWN": {
             "description": "",
-            "value": "*📥Downloading your file...*" ,
+            "value": "*📥Downloading sakun your file...*" ,
             "required": true
       },
           "FILE_UP": {
             "description": "",
-            "value": "*📤Uploading your file...*" ,
+            "value": "*📤Uploading sakun  your file...*" ,
             "required": true
       },
           "STIC_WM": {
             "description": "",
-            "value": "⛲αqυα ⃨𝚋oƚ ࿐" ,
+            "value": "☬𝐒𝐀𝐊𝐔𝐍 𝐊𝐀𝐕𝐄𝐄𝐒𝐇𝐀☬ ࿐" ,
             "required": true
       },
           "WORK_TYPE": {
@@ -155,7 +155,7 @@
       },
          "LANGUAGE": {
             "description": "",
-            "value": "EN" ,
+            "value": "SI" ,
             "required": true
       },
          "HEROKU": {
