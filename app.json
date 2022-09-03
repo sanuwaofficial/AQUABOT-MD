@@ -33,12 +33,12 @@
              },
             "OWN_NAME": {
             "description": "",
-            "value": "Sanuwa Official" ,
+            "value": "your name" ,
             "required": true
              },
              "OWN_NUMBER": {
             "description": "",
-            "value": "94701629707" ,
+            "value": "94xxxxxxxxx" ,
             "required": true
              },
        
@@ -103,11 +103,7 @@
             "value": "https://telegra.ph/file/85fe740b2385a55178500.jpg" ,
             "required": true
       },
-      "DEPLOYER": {
-            "description": "",
-            "value": "AQUA USER" ,
-            "required": true
-      },
+     
        "SONG_DOWN": {
             "description": "",
             "value": "*📥Downloading your song...*" ,
