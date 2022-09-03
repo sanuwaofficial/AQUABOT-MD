@@ -59,7 +59,7 @@
      "sequelize" : "^6.19.0" ,
      "yt-search": "^2.7.4",  
      "path": "^0.12.7",
-     "megajs" : "^1.0.4",  
+     "megajs" : "^1.0.6",  
      "moment-timezone": "^0.5.33",
     "node-fetch": "^2.6.1" ,
      "@hapi/boom" : "^10.0.0",
