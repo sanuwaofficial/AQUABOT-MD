@@ -106,37 +106,37 @@
      
        "SONG_DOWN": {
             "description": "",
-            "value": "*📥Downloading your song...*" ,
+            "value": "*📥Sakun kavveesha Downloading your song...*" ,
             "required": true
       }, 
         "SONG_UP": {
             "description": "",
-            "value": "*📤Uploading your song...*" ,
+            "value": "*📤Sakun kaveesha Uploading your song...*" ,
             "required": true
       },
           "VIDEO_DOWN": {
             "description": "",
-            "value": "*📥Downloading your video...*" ,
+            "value": "*📥Sakun kaveeshaDownloading your video...*" ,
             "required": true
       },
           "VIDEO_UP": {
             "description": "",
-            "value": "*📤Uploading your video...*" ,
+            "value": "*📤Sakun kaveesha Uploading your video...*" ,
             "required": true
       },
           "FILE_DOWN": {
             "description": "",
-            "value": "*📥Downloading your file...*" ,
+            "value": "*📥Sakun kaveesha Downloading your file...*" ,
             "required": true
       },
           "FILE_UP": {
             "description": "",
-            "value": "*📤Uploading your file...*" ,
+            "value": "*📤Sakun kaveesha Uploading your file...*" ,
             "required": true
       },
           "STIC_WM": {
             "description": "",
-            "value": "⛲αqυα ⃨𝚋oƚ ࿐" ,
+            "value": "☬𝐒𝐀𝐊𝐔𝐍 𝐊𝐀𝐕𝐄𝐄𝐒𝐇𝐀☬ ࿐" ,
             "required": true
       },
           "WORK_TYPE": {
