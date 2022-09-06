@@ -1,9 +1,9 @@
 {
     "LANGUAGE": "English",
     "LANGCODE": "en",
-    "AUTHOR"  : "sanuwa official",
+    "AUTHOR"  : "sakun kaveesha",
     "STRINGS" : { 
-                  "aqua" : {   
+                  "Sakun" : {   
                             "COMMAND"  : "Command",
                             "DESC"     : "Description",
                             "EXAMPLE"  : "Example",
