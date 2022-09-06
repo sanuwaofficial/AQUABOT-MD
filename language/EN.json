@@ -3,7 +3,7 @@
     "LANGCODE": "en",
     "AUTHOR"  : "sakun kaveesha",
     "STRINGS" : { 
-                  "aqua" : {   
+                  "SAKUN" : {   
                             "COMMAND"  : "Sakun Command",
                             "DESC"     : "Sakun Description",
                             "EXAMPLE"  : "Sakun Example",
