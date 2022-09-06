@@ -14,20 +14,23 @@ This project is still being tested
     </p>
     
   ### ඔබට පහසුවෙන් QR කේතය Repl.it මඟින් ලබා ගත හැක.. පහල බටනය CLICK කරන්න
+  ༻꧁☬𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐒𝐀𝐊𝐔𝐍⃢🌹⃢𝐊𝐀𝐕𝐄𝐄𝐒𝐇𝐀☬꧂༺
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@MagmaGaming/AQUABOT-MDV2?v=1)
 
 ## QR කේතය ලබා ගත් පසු Bot deploy කිරීමට පහල බටනය CLICK කරන්න..
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sanuwaofficial/AQUABOT-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sakunkaveesha22/AQUABOT-MD)
 
 ---------------------------------   
 
- ###  Developer :- Sanuwa-official 
+ ###  Developer :- ☬𝐒𝐀𝐊𝐔𝐍 𝐊𝐀𝐕𝐄𝐄𝐒𝐇𝐀☬ 
+
+☬Whats app gruop☬
+https://chat.whatsapp.com/DAv7cHRzJBDIlzrrDd1yCo
+
+☬Youtube☬
+https://youtu.be/rYLF6KNHE-c
+![☬Sakun kaveesha bot☬ 20220903_134849](https://user-images.githubusercontent.com/112916797/188547183-2e55f9c5-bd4b-4c49-b2fa-09397ebafcf2.jpg)
 
 ## Thanks To
-- [@adiwajshing](https://github.com/adiwajshing/) for coded [Baileys](https://github.com/adiwajshing/Baileys) 
-- [@yusufusta](https://github.com/yusufusta/) for coded [WhatsAsena](https://github.com/yusufusta/WhatsAsena) 
-- [@sisula](https://github.com/sisula/) & [@joka](https://github.com/MrJoka-Thejaka/) for all the helps 🤝
- 
-  
- 
+༻꧁☬𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐒𝐀𝐊𝐔𝐍⃢🌹⃢𝐊𝐀𝐕𝐄𝐄𝐒𝐇𝐀☬꧂༺
