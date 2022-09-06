@@ -1,4 +1,4 @@
-FROM SAKUNbotwa/sakun-official:md-beta
+FROM Sakunbotwa/sakun-official:md-beta
 
 RUN git clone https://github.com/sakunkaveesha22/SAKUNBOT-MD /root/aquabot
 WORKDIR /root/SAKUN/
