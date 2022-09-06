@@ -48,7 +48,7 @@
             "value": "💻GITHUB💻" ,
             "required": true
       },
-       "URL_2LINK": {
+       "URL_2LINK ": {
             "description": "",
             "value": "https://github.com/sanuwaofficial" ,
             "required": true
