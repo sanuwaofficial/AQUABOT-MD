@@ -11,8 +11,7 @@ https://user-images.githubusercontent.com/112916797/188566693-36210262-f284-48d5
 
 ![☬Sakun kaveesha bot☬ 20220903_134849](https://user-images.githubusercontent.com/112916797/188542742-df28e26e-281c-4bc0-93fe-a0c2ddac2c78.jpg)
 # SAKUNBOT-MD
-This project is still being tested
-<p align="center"> <a href="github.com/sakunkaveesha22"><img align="center" src="https://telegra.ph/file/85fe740b2385a55178500.jpg"/></a>
+src="https://telegra.ph/file/85fe740b2385a55178500.jpg"/></a>
  <p align="center">
 <a href="https://github.com/sakunkaveesha22/SAKUNBOT-MD"><img title="Followers" src="https://img.shields.io/github/followers/sakunkaveesha22?e=flat-square"></a>
 <a href="https://github.com/sakunkaveesha22/SAKUNBOT-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/sakunkaveesha22/SAKUNBOT-MD?color=blue&style=flat-square"></a>
