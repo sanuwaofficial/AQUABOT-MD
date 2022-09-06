@@ -1,33 +1,33 @@
 {
-  "name": "Aquabot-MD",
+  "name": "Sakunbot-MD",
   "version": "1.0.0",
-  "description": "aquabot happy for whatsapp.",
-  "main": "/aquabot/bot.js",
+  "description": "Sakun Kaveesha happy for whatsapp.",
+  "main": "/sakun/bot.js",
   "type": "commonjs",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sanuwaofficial/AQUABOT-MD.git"
+    "url": "git+https://github.com/sakunkaveesha22/SAKUNBOT-MD.git"
   },
   "engines" : { 
     "node" : ">=14.19.3"
   },
-  "author": "sanuwa official",
-  "developer": "sanuwa",
+  "author": "sakun kaveesha",
+  "developer": "sakun",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/sanuwaofficial/AQUABOT-MD/issues"
+    "url": "https://github.com/sakun kaveesha/SAKUNBOT-MD/issues"
   },
-  "homepage": "https://github.com/sanuwaofficial/AQUABOT-MD",
+  "homepage": "https://github.com/sakun kaveesha/SAKUNBOT-MD",
   "dependencies": {
      "@adiwajshing/baileys": "^4.4.0",
     "@adiwajshing/keyed-db": "^0.2.4",  
     "axios": "^0.24.0",
     "heroku-client": "^3.1.0", 
     "stream" : "^0.0.2" ,
-    "sanuwa-npm" : "^1.2.0",
+    "sakun-npm" : "^1.2.0",
     "simple-git": "^2.37.0",  
     "chalk": "^4.1.2",
     "object-query-string" : "^1.2.0",
