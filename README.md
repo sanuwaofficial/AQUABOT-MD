@@ -10,9 +10,8 @@ https://user-images.githubusercontent.com/112916797/188566693-36210262-f284-48d5
 
 
 ![☬Sakun kaveesha bot☬ 20220903_134849](https://user-images.githubusercontent.com/112916797/188542742-df28e26e-281c-4bc0-93fe-a0c2ddac2c78.jpg)
-# SAKUNBOT-MD
-src="https://telegra.ph/file/85fe740b2385a55178500.jpg"/></a>
- <p align="center">
+# ☬SAKUNBOT-MD☬
+
 <a href="https://github.com/sakunkaveesha22/SAKUNBOT-MD"><img title="Followers" src="https://img.shields.io/github/followers/sakunkaveesha22?e=flat-square"></a>
 <a href="https://github.com/sakunkaveesha22/SAKUNBOT-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/sakunkaveesha22/SAKUNBOT-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/sakunkaveesha22/SAKUNBOT-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/sakunkaveesha22/SAKUNBOT-MD?color=red&style=flat-square"></a>
