@@ -8,7 +8,7 @@
     "success_url": "https://aquabot.ga",
     "stack": "container",
      "env": {
-            "SAKUN_SESSION": {
+            "AQUA_SESSION": {
             "description": "",
             "required": true
              },
