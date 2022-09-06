@@ -25,9 +25,10 @@ This project is still being tested
  ###  Developer :- Sakun kaveesha 
 
 ## Thanks To
-- [@adiwajshing](https://github.com/adiwajshing/) for coded [Baileys](https://github.com/adiwajshing/Baileys) 
-- [@yusufusta](https://github.com/yusufusta/) for coded [WhatsAsena](https://github.com/yusufusta/WhatsAsena) 
-- [@sisula](https://github.com/sisula/) & [@joka](https://github.com/MrJoka-Thejaka/) for all the helps 🤝
- 
+☬Whats app gruop☬
+https://chat.whatsapp.com/DAv7cHRzJBDIlzrrDd1yCo
+☬Youtube☬
+https://youtu.be/rYLF6KNHE-c
+
   
  ༻꧁☬𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐒𝐀𝐊𝐔𝐍⃢🌹⃢𝐊𝐀𝐕𝐄𝐄𝐒𝐇𝐀☬꧂༺
