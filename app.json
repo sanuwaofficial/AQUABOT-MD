@@ -1,14 +1,14 @@
 {
-    "name": "Aquabot - MD",
-    "description": "AQUABOT  - Makes it easy and fun to use Whatsapp.",
-    "logo": "https://i.ibb.co/V9jYrQC/aqua-md.jpg",
-    "keywords": ["whatsapp", "userbot", "aqua", "bot", "ai" , "MD" ],
+    "name": "Asad Bot - MD",
+    "description": "Asad Bot  - Makes it easy and fun to use Whatsapp.",
+    "logo": "https://imgur.com/YTMXkHo.png",
+    "keywords": ["whatsapp", "userbot", "Asad", "bot", "ai" , "RT" ],
     "repository": "https://github.com/sanuwaofficial/AQUABOT-MD",
-    "website":   "https://aquabot.ga/",
-    "success_url": "https://aquabot.ga",
+    "website":   "https://www.instagram.com/asadnoor_25/",
+    "success_url": "https://www.instagram.com/asadnoor_25/",
     "stack": "container",
      "env": {
-            "AQUA_SESSION": {
+            "ASAD_SESSION": {
             "description": "",
             "required": true
              },
@@ -55,7 +55,7 @@
       },
            "URL_1LINK": {
             "description": "",
-            "value": "https://www.instagram.com/__.sanuwa.__/" ,
+            "value": "https://www.instagram.com/asadnoor_25" ,
             "required": true
       },
      "URL_2NAME": {
@@ -70,7 +70,7 @@
       },
        "FOOTER": {
             "description": "",
-            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰𝙱𝙾𝚃 ²⁰²²" ,
+            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 ASAD-𝙱𝙾𝚃 ²⁰²²" ,
             "required": true
       },
      "ANTI_LINK": {
@@ -80,7 +80,7 @@
       },
        "CAPTION": {
             "description": "",
-            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰 ²⁰²²" ,
+            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 ASAD-NOOR ²⁰²²" ,
             "required": true
       },
        "INBOX_BLOCK": {
@@ -100,7 +100,7 @@
       },
       "ALIVE_LOGO": {
             "description": "",
-            "value": "https://telegra.ph/file/85fe740b2385a55178500.jpg" ,
+            "value": "https://i.imgur.com/YTMXkHo.png" ,
             "required": true
       },
      
@@ -136,7 +136,7 @@
       },
           "STIC_WM": {
             "description": "",
-            "value": "⛲αqυα ⃨𝚋oƚ ࿐" ,
+            "value": "⛲ASAD-BOT࿐" ,
             "required": true
       },
           "WORK_TYPE": {
