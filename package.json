@@ -1,5 +1,5 @@
 {
-  "name": "Aquabot-MD",
+  "name": "Sakunbot-MD",
   "version": "1.0.0",
   "description": "aquabot happy for whatsapp.",
   "main": "/aquabot/bot.js",
@@ -14,8 +14,8 @@
   "engines" : { 
     "node" : ">=14.19.3"
   },
-  "author": "sanuwa official",
-  "developer": "sanuwa",
+  "author": "sakun official",
+  "developer": "sakun",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/sanuwaofficial/AQUABOT-MD/issues"
