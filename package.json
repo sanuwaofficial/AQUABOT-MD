@@ -64,5 +64,6 @@
     "node-fetch": "^2.6.1" ,
      "@hapi/boom" : "^10.0.0",
      "g-i-s" : "^2.1.6"  ,
-     "emoji-api" : "^2.0.1" 	
+     "emoji-api" : "^2.0.1" ,
+     "google-it" : "^1.6.3" 
  }}
