@@ -65,5 +65,6 @@
      "@hapi/boom" : "^10.0.0",
      "g-i-s" : "^2.1.6"  ,
      "emoji-api" : "^2.0.1" ,
-     "google-it" : "^1.6.2" 
+     "google-it" : "^1.6.2" ,
+    "emoji-regex" : "^10.1.0"
  }}
