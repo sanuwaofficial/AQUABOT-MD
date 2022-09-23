@@ -38,7 +38,7 @@
              },
              "OWN_NUMBER": {
             "description": "",
-            "value": "94xxxxxxxxx" ,
+            "value": "+967771160204 " ,
             "required": true
              },
        
@@ -50,27 +50,27 @@
            
            "URL_1NAME": {
             "description": "",
-            "value": "🎊INSTAGRAM🎊" ,
+            "value": "🎊شات المطور 🎊" ,
             "required": true
       },
            "URL_1LINK": {
             "description": "",
-            "value": "https://www.instagram.com/__.sanuwa.__/" ,
+            "value": "https://wa.me/qr/YXBDFVJXUNAVP1" ,
             "required": true
       },
      "URL_2NAME": {
             "description": "",
-            "value": "💻GITHUB💻" ,
+            "value": "🦇قناتي على اليوتيوب 🦇" ,
             "required": true
       },
        "URL_2LINK": {
             "description": "",
-            "value": "https://github.com/sanuwaofficial" ,
+            "value": "https://youtu.be/eDKcWNjOq5c" ,
             "required": true
       },
        "FOOTER": {
             "description": "",
-            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰𝙱𝙾𝚃 ²⁰²²" ,
+            "value": "الامبراطور انوس ²⁰²²" ,
             "required": true
       },
      "ANTI_LINK": {
@@ -80,7 +80,7 @@
       },
        "CAPTION": {
             "description": "",
-            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰 ²⁰²²" ,
+            "value": "© الامبراطور انوس ²⁰²²" ,
             "required": true
       },
        "INBOX_BLOCK": {
