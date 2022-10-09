@@ -20,6 +20,7 @@ This project is still being tested
 ## QR කේතය ලබා ගත් පසු Bot deploy කිරීමට පහල බටනය CLICK කරන්න..
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sanuwaofficial/AQUABOT-MD)
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/yP_YCd?referralCode=VN3jQs)
 ---------------------------------   
 
  ###  Developer :- Sanuwa-official 
