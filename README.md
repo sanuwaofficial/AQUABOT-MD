@@ -26,7 +26,8 @@ This project is still being tested
  ###  Developer :- kaviya ofc 
 
 ## Thanks To
-- [sanjuwa](https://github.com/sanjuwa22/) for coded [Baileys](https://github.com/adiwajshing/Baileys)  for all the helps 🤝
+- [sanjuwa](https://github.com/sanjuwa22/) for help 
+- [Mr bosa](https://github.com/adiwajshing/Baileys)  for all the helps 🤝
  
   
  
