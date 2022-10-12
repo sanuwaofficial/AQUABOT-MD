@@ -1,26 +1,26 @@
 {
-  "name": "Aquabot-MD",
+  "name": "KAVIYA-OFC-BOT-MD",
   "version": "1.0.0",
-  "description": "aquabot happy for whatsapp.",
-  "main": "/aquabot/bot.js",
+  "description": "KAVIYA-OFC-BOT happy for whatsapp.",
+  "main": "/KAVIYA-OFC-BOT/bot.js",
   "type": "commonjs",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sanuwaofficial/AQUABOT-MD.git"
+    "url": "git+https://github.com/kaviyaofc1/KAVIYA-OFC-BOT-MD.git"
   },
   "engines" : { 
     "node" : ">=14.19.3"
   },
   "author": "sanuwa official",
-  "developer": "sanuwa",
+  "developer": "kaviya",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/sanuwaofficial/AQUABOT-MD/issues"
+    "url": "https://github.com/kaviyaofc1/KAVIYA-OFC-BOT-MD/issues"
   },
-  "homepage": "https://github.com/sanuwaofficial/AQUABOT-MD",
+  "homepage": "https://github.com/kaviyaofc1/KAVIYA-OFC-BOT-MD",
   "dependencies": {
      "@adiwajshing/baileys": "^4.4.0",
     "@adiwajshing/keyed-db": "^0.2.4",  
