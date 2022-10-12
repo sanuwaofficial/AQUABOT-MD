@@ -27,7 +27,7 @@ This project is still being tested
 
 ## Thanks To
 - [sanjuwa](https://github.com/sanjuwa22/) for help 
-- [Mr bosa](https://github.com/adiwajshing/Baileys)  for all the helps 🤝
+- [Mr bosa](https://github.com/adiwajshing/Baileys) thank for all the helps 🤝
  
   
  
