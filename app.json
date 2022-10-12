@@ -54,8 +54,8 @@
             "required": true
       },
            "URL_1LINK": {
-            "description": "https://chat.whatsapp.com/F950olXvdc6JH4ZXoH0TQx",
-            "value": "" ,
+            "description": "",
+            "value": "https://chat.whatsapp.com/F950olXvdc6JH4ZXoH0TQx" ,
             "required": true
       },
      "URL_2NAME": {
