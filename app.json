@@ -1,6 +1,6 @@
 {
     "name": "kaviyaofcbot - MD",
-    "description": "AQUABOT  - Makes it easy and fun to use Whatsapp.",
+    "description": "KAVIYA-OFC-BOT-MD - Makes it easy and fun to use Whatsapp.",
     "logo": "https://telegra.ph/file/a8a94d212fd52906b3c8d.jpg",
     "keywords": ["whatsapp", "userbot", "kaviyaofc", "bot", "ai" , "MD" ],
     "repository": "https://github.com/kaviyaofc1/KAVIYAOFCBOT-MD",
@@ -95,7 +95,7 @@
       },
       "ALIVE_MESSAGE": {
             "description": "",
-            "value": "default", 
+            "value": "HELLO I AM ALIVE NOW", 
             "required": true
       },
       "ALIVE_LOGO": {
@@ -151,7 +151,7 @@
       },
          "LANGUAGE": {
             "description": "",
-            "value": "EN" ,
+            "value": "SI" ,
             "required": true
       },
          "HEROKU": {
