@@ -1,8 +1,8 @@
 # AQUABOT-MD
 This project is still being tested
-<p align="center"> <a href="kaviyaofc1"><img align="center" src="https://telegra.ph/file/85fe740b2385a55178500.jpg"/></a>
+<p align="center"> <a href="kaviyaofc1"><img align="center" src="https://telegra.ph/file/a8a94d212fd52906b3c8d.jpg"/></a>
  <p align="center">
-<a href="https://github.com/kaviyaofc1/AQUABOT-MD"><img title="Followers" src="https://img.shields.io/github/followers/sanuwaofficial?e=flat-square"></a>
+<a href="https://github.com/kaviyaofc1/AQUABOT-MD"><img title="Followers" src="https://img.shields.io/github/followers/kaviyaofc?e=flat-square"></a>
 <a href="https://github.com/kaviyaofc1/AQUABOT-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/sanuwaofficial/AQUABOT-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/kaviyaofc1/AQUABOT-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kaviyaofc1/AQUABOT-MD?color=red&style=flat-square"></a>
 <a href="https://github.com/kaviyaofc1/AQUABOT-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/kaviyaofc1/AQUABOT-MD?label=Watchers&color=blue&style=flat-square"></a>
