@@ -34,7 +34,7 @@
     "cookie": "^0.4.1",  
     "got": "^11.8.2",
     "google-translate-tts": "^0.3.0",
-    "cheerio": "0.22.0",
+    "cheerio": "^1.0.0-rc.12",
     "child_process": "^1.0.2",
     "cobrabot-patch" : "^1.0.2" ,
     "crypto": "^1.0.1",
