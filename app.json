@@ -1,5 +1,5 @@
 {
-    "name": "Aquabot - MD",
+    "name": "Kddrbot - MD",
     "description": "AQUABOT  - Makes it easy and fun to use Whatsapp.",
     "logo": "https://i.ibb.co/V9jYrQC/aqua-md.jpg",
     "keywords": ["whatsapp", "userbot", "aqua", "bot", "ai" , "MD" ],
@@ -65,12 +65,12 @@
       },
        "URL_2LINK": {
             "description": "",
-            "value": "https://github.com/sanuwaofficial" ,
+            "value": "https://github.com/kddrfake" ,
             "required": true
       },
        "FOOTER": {
             "description": "",
-            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰𝙱𝙾𝚃 ²⁰²²" ,
+            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙺𝙳𝙳𝚁-𝙱𝙾𝚃 ²⁰²²" ,
             "required": true
       },
      "ANTI_LINK": {
@@ -80,7 +80,7 @@
       },
        "CAPTION": {
             "description": "",
-            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰 ²⁰²²" ,
+            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙺𝙳𝙳𝚁 ²⁰²²" ,
             "required": true
       },
        "INBOX_BLOCK": {
@@ -100,43 +100,44 @@
       },
       "ALIVE_LOGO": {
             "description": "",
-            "value": "https://telegra.ph/file/85fe740b2385a55178500.jpg" ,
+            "value": "https://telegra.ph/file/b9b9c9aae2f162ce3b770.jpg" ,
             "required": true
       },
      
        "SONG_DOWN": {
             "description": "",
-            "value": "*📥Downloading your song...*" ,
+            "value": "*📥උබ ඉල්ලපු සින්දුව 𝚍𝚘𝚠𝚗𝚕𝚘𝚊𝚍 කරන ගමන් බන්......පොඩ්ඩක් ඉවසපන් ඈ👍......ඉවසන දනා රුපුරුදයට ජය කොඩිය😀.....අකුරු වැරදිනම් ගනන් ගන්න එපා බොක්ක🤣...*" ,
             "required": true
       }, 
         "SONG_UP": {
             "description": "",
-            "value": "*📤Uploading your song...*" ,
+            "value": "*📤ඔයා ඉල්ලපු සින්දුව එවන ගමන් කොල්ලො තියෙන්නෙ😶....තව තත්පරයක් ඉවසපන් හොදේ🤣...*" ,
             "required": true
       },
           "VIDEO_DOWN": {
             "description": "",
-            "value": "*📥Downloading your video...*" ,
+            "value": "*📥උබ ඉල්ලපු 𝚟𝚒𝚍𝚎𝚘 එක 𝚍𝚘𝚠𝚗𝚕𝚘𝚊𝚍 කරන ගමන් බන්......පොඩ්ඩක් ඉවසපන් ඈ👍......ඉවසන දනා රුපුරුදයට ජය කොඩිය😀.....අකුරු වැරදිනම් ගනන් ගන්න එපා බොක්ක🤣 ,...*" ,
             "required": true
       },
           "VIDEO_UP": {
             "description": "",
-            "value": "*📤Uploading your video...*" ,
+            "value": "*📤ඔයා ඉල්ලපු 𝚟𝚒𝚍𝚎𝚘 එක එවන ගමන් කොල්ලො තියෙන්නෙ😶....තව තත්පරයක් ඉවසපන් හොදේ🤣...*" ,
+       
             "required": true
       },
           "FILE_DOWN": {
             "description": "",
-            "value": "*📥Downloading your file...*" ,
+            "value": "*📥Downloading බන් ඉතිම්🤣...*" ,
             "required": true
       },
           "FILE_UP": {
             "description": "",
-            "value": "*📤Uploading your file...*" ,
+            "value": "*📤Uploading ඈ පොඩ්ඩක් ඉවසපන්...*" ,
             "required": true
       },
           "STIC_WM": {
             "description": "",
-            "value": "⛲αqυα ⃨𝚋oƚ ࿐" ,
+            "value": "😈𝖐𝖉𝖉𝖗 𝖇𝖔𝖙 ࿐" ,
             "required": true
       },
           "WORK_TYPE": {
@@ -146,12 +147,12 @@
       },
          "SUDO": {
             "description": "",
-            "value": "" ,
+            "value": "+94703199484,0" ,
             "required": false
       },
          "LANGUAGE": {
             "description": "",
-            "value": "EN" ,
+            "value": "SI" ,
             "required": true
       },
          "HEROKU": {
@@ -171,37 +172,37 @@
       },
          "BAN_MESSAGE": {
             "description": "",
-            "value": "default" ,
+            "value": "පල පාහර බල්ල එලියට😈",
             "required": true
       },
          "ADD_MESSAGE": {
             "description": "",
-            "value": "default" ,
+            "value": "ඔන්න පුතේ උබවත් add කරා 🤝" ,
             "required": true
       },
         "PROMOTE_MESSAGE": {
             "description": "",
-            "value": "default" ,
+            "value": "ඔන්න එහෙනම් උබවත් admin කරා ඈ👍" ,
             "required": true
       },
          "DEMOTE_MESSAGE": {
             "description": "",
-            "value": "default" ,
+            "value": "උබ admin තියල වැඩක් නෑ බන් ඉතිම්😶" ,
             "required": true
       },
          "MUTE_MESSAGE": {
             "description": "",
-            "value": "default" ,
+            "value": "ඔන්න කොල්ලො group එක mute කරා එහෙනම් good bye 👍ඔක්කොටම😑" ,
             "required": true
       },
          "UNMUTE_MESSAGE": {
             "description": "",
-            "value": "default" ,
+            "value": "ඔන්න ආයිමත් unmute කරා දැන් ඕන රෙද්දක් නටාගනිල්ල ඈ🤣 " ,
             "required": true
       },
         "KICKME_MESSAGE": {
             "description": "",
-            "value": "default" ,
+            "value": "මන් ගියා කොල්ලො bye එහෙනම් 😀" ,
             "required": true
       }  
         
