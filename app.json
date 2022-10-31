@@ -22,6 +22,11 @@
             "value": "false" ,    
             "required": true
              },
+            "ANTI_SPAM": {
+            "description": "",
+            "value": "true" ,    
+            "required": true
+             },
             "ONLY_GROUP": {
             "description": "",
             "value": "false" ,    
