@@ -1,19 +1,19 @@
 {
-    "name": "Aquabot - MD",
-    "description": "AQUABOT  - Makes it easy and fun to use Whatsapp.",
+    "name": "ALI-KING - Official",
+    "description": "ALI-KING  - Makes it easy and fun to use Whatsapp.",
     "logo": "https://i.ibb.co/V9jYrQC/aqua-md.jpg",
-    "keywords": ["whatsapp", "userbot", "aqua", "bot", "ai" , "MD" ],
-    "repository": "https://github.com/sanuwaofficial/AQUABOT-MD",
-    "website":   "https://aquabot.ga/",
+    "keywords": ["whatsapp", "userbot", "ali", "bot", "ai" , "MD" ],
+    "repository": "https://chat.whatsapp.com/IHc6Ga3pHWdDLQle2v7rx3",
+    "website":   "https://chat.whatsapp.com/IHc6Ga3pHWdDLQle2v7rx3/",
     "success_url": "https://aquabot.ga",
     "stack": "container",
      "env": {
             "AQUA_SESSION": {
-            "description": "",
+            "description": "AQUA=UphVCaJB#ic7vg4u5zSAVHUzpRk2dGfZ8gbE3JidmqE12OstKcAc",
             "required": true
              },
             "NO_ONLINE": {
-            "description": "",
+            "description": "ALI-KING",
             "required": true,
              "value": "false"    
              },
@@ -38,12 +38,12 @@
              },
             "OWN_NAME": {
             "description": "",
-            "value": "your name" ,
+            "value": "ALI-KING" ,
             "required": true
              },
              "OWN_NUMBER": {
-            "description": "",
-            "value": "94xxxxxxxxx" ,
+            "description": "923252752761",
+            "value": "923250721715" ,
             "required": true
              },
        
@@ -55,27 +55,27 @@
            
            "URL_1NAME": {
             "description": "",
-            "value": "🎊INSTAGRAM🎊" ,
+            "value": "🎊https://chat.whatsapp.com/IHc6Ga3pHWdDLQle2v7rx3🎊" ,
             "required": true
       },
            "URL_1LINK": {
             "description": "",
-            "value": "https://www.instagram.com/__.sanuwa.__/" ,
+            "value": "https://chat.whatsapp.com/IHc6Ga3pHWdDLQle2v7rx3.__/" ,
             "required": true
       },
      "URL_2NAME": {
             "description": "",
-            "value": "💻GITHUB💻" ,
+            "value": "💻ALI-KING OFFICIAL💻" ,
             "required": true
       },
        "URL_2LINK": {
             "description": "",
-            "value": "https://github.com/sanuwaofficial" ,
+            "value": "https://chat.whatsapp.com/IHc6Ga3pHWdDLQle2v7rx3" ,
             "required": true
       },
        "FOOTER": {
             "description": "",
-            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰𝙱𝙾𝚃 ²⁰²²" ,
+            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 ALI-KING ²⁰²²" ,
             "required": true
       },
      "ANTI_LINK": {
@@ -85,7 +85,7 @@
       },
        "CAPTION": {
             "description": "",
-            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰 ²⁰²²" ,
+            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 ALI-KING ²⁰²²" ,
             "required": true
       },
        "INBOX_BLOCK": {
