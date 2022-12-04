@@ -8,7 +8,7 @@
     "success_url": "https://aquabot.ga",
     "stack": "container",
      "env": {
-            "AQUA_SESSION": {
+            "Aبوت علي حيدر": {
             "description": "",
             "required": true
              },
@@ -17,12 +17,12 @@
             "required": true,
              "value": "false"    
              },
-            "ANTI_BOT": {
+            "مرحباT": {
             "description": "",
             "value": "false" ,    
             "required": true
              },
-            "ANTI_SPAM": {
+            "مرحبا معك علي الواقديA": {
             "description": "",
             "value": "true" ,    
             "required": true
@@ -43,7 +43,7 @@
              },
              "OWN_NUMBER": {
             "description": "",
-            "value": "94xxxxxxxxx" ,
+            "value": "967771550103" ,
             "required": true
              },
        
@@ -55,7 +55,7 @@
            
            "URL_1NAME": {
             "description": "",
-            "value": "🎊INSTAGRAM🎊" ,
+            "value": "🎊علي الواقدي🎊" ,
             "required": true
       },
            "URL_1LINK": {
@@ -75,7 +75,7 @@
       },
        "FOOTER": {
             "description": "",
-            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰𝙱𝙾𝚃 ²⁰²²" ,
+            "value": "فريق نحو سفير نطير ²⁰²²" ,
             "required": true
       },
      "ANTI_LINK": {
@@ -85,7 +85,7 @@
       },
        "CAPTION": {
             "description": "",
-            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰 ²⁰²²" ,
+            "value": "© معك بوت علي حيدر  ²⁰²²" ,
             "required": true
       },
        "INBOX_BLOCK": {
@@ -111,32 +111,32 @@
      
        "SONG_DOWN": {
             "description": "",
-            "value": "*📥Downloading your song...*" ,
+            "value": "*📥انتظر تحميل وصلي علا نبياء...*" ,
             "required": true
       }, 
         "SONG_UP": {
             "description": "",
-            "value": "*📤Uploading your song...*" ,
+            "value": "*📤تم تحميل الف صلاة علارسوال الله...*" ,
             "required": true
       },
           "VIDEO_DOWN": {
             "description": "",
-            "value": "*📥Downloading your video...*" ,
+            "value": "*📥انتظر معك بوت علي حيدر...*" ,
             "required": true
       },
           "VIDEO_UP": {
             "description": "",
-            "value": "*📤Uploading your video...*" ,
+            "value": "*📤تم تحميل هلا فيك...*" ,
             "required": true
       },
           "FILE_DOWN": {
             "description": "",
-            "value": "*📥Downloading your file...*" ,
+            "value": "*📥تحميل تم ...*" ,
             "required": true
       },
           "FILE_UP": {
             "description": "",
-            "value": "*📤Uploading your file...*" ,
+            "value": "*📤تحميل ...*" ,
             "required": true
       },
           "STIC_WM": {
