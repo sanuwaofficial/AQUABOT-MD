@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/sanuwaofficial/AQUABOT-MD",
   "dependencies": {
-     "@adiwajshing/baileys": "^4.4.0",
+     "@adiwajshing/baileys": "4.4.0",
     "@adiwajshing/keyed-db": "^0.2.4",  
     "axios": "0.27.2",
     "heroku-client": "^3.1.0", 
