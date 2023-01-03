@@ -21,6 +21,8 @@ This project is still being tested
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https%3A%2F%2Fgithub.com%2Fsanuwaofficial%2FAQUABOT-MD)
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/yP_YCd?referralCode=VN3jQs)
+
+[!Deploy on MOGENIOUS](https://github.com/Belmont/Aquabot-md/wiki/Deploy-on-MOGENIOUS)
 ---------------------------------   
 
  ###  Developer :- Sanuwa-official 
