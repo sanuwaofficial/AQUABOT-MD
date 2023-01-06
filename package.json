@@ -24,7 +24,7 @@
   "dependencies": {
      "@adiwajshing/baileys": "4.4.0",
     "@adiwajshing/keyed-db": "^0.2.4",  
-    "axios": "0.27.2",
+    "axios": "0.27.2", 
     "heroku-client": "^3.1.0", 
     "stream" : "^0.0.2" ,
     "sanuwa-npm" : "^1.2.0",
