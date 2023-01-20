@@ -32,7 +32,7 @@
             "value": "false" ,    
             "required": true
              },
-             "REMOVE_BG_API_KEY": {
+             "بوت علي الواقدي": {
             "description": "",
             "required": true
              },
@@ -43,7 +43,7 @@
              },
              "OWN_NUMBER": {
             "description": "",
-            "value": "94xxxxxxxxx" ,
+            "value": "967771550103" ,
             "required": true
              },
        
@@ -85,7 +85,7 @@
       },
        "CAPTION": {
             "description": "",
-            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰 ²⁰²²" ,
+            "value": "© علي حيدر يربكم  ²⁰²²" ,
             "required": true
       },
        "INBOX_BLOCK": {
@@ -111,7 +111,7 @@
      
        "SONG_DOWN": {
             "description": "",
-            "value": "*📥Downloading your song...*" ,
+            "value": "*📥تحميل...*" ,
             "required": true
       }, 
         "SONG_UP": {
